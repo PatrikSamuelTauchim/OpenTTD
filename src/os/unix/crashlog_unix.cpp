@@ -21,7 +21,7 @@
 
 #if defined(__GLIBC__)
 /* Execinfo (and thus making stacktraces) is a GNU extension */
-#	include <execinfo.h>
+//#	include <execinfo.h>
 #elif defined(SUNOS)
 #	include <ucontext.h>
 #	include <dlfcn.h>
@@ -108,7 +108,7 @@ class CrashLogUnix : public CrashLog {
 	/* virtual */ char *LogStacktrace(char *buffer, const char *last) const
 	{
 		buffer += seprintf(buffer, last, "Stacktrace:\n");
-#if defined(__GLIBC__)
+#if defined(__NOGLIBC__)
 		void *trace[64];
 		int trace_size = backtrace(trace, lengthof(trace));
 
