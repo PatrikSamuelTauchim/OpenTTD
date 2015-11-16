@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: news_gui.cpp 26965 2014-10-05 21:18:37Z peter1138 $ */
 
 /*
  * This file is part of OpenTTD.

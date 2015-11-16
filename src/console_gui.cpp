@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: console_gui.cpp 26538 2014-04-28 21:06:51Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

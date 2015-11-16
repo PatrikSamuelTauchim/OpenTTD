@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: script_engine.hpp 27123 2015-01-20 19:11:31Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

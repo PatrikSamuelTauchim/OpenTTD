@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: regression_info.nut 26895 2014-09-21 16:41:03Z fonsinchen $ */
 
 class Regression extends AIInfo {
 	function GetAuthor()      { return "OpenTTD NoAI Developers Team"; }

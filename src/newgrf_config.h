@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: newgrf_config.h 26612 2014-05-24 19:13:34Z alberth $ */
 
 /*
  * This file is part of OpenTTD.

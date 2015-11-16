@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: spritecache.h 23887 2012-02-04 13:29:04Z michi_cc $ */
 
 /*
  * This file is part of OpenTTD.

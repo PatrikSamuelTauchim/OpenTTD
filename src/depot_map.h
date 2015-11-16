@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: depot_map.h 26692 2014-07-16 20:56:39Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

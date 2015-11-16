@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: build_industry.h 27137 2015-02-06 21:54:19Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: base_consist.h 24998 2013-02-14 17:24:55Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

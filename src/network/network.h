@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: network.h 26449 2014-04-08 20:19:41Z planetmaker $ */
 
 /*
  * This file is part of OpenTTD.

@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: newgrf_debug_data.h 27048 2014-10-28 00:51:51Z peter1138 $ */
 
 /*
  * This file is part of OpenTTD.

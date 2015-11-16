@@ -1,6 +1,6 @@
 Option Explicit
 
-' $Id$
+' $Id: generate.vbs 26227 2014-01-05 10:19:59Z zuu $
 '
 ' This file is part of OpenTTD.
 ' OpenTTD is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 2.

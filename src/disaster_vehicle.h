@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: disaster_vehicle.h 26872 2014-09-21 11:12:42Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

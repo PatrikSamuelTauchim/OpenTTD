@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: newgrf_gui.cpp 26954 2014-10-04 18:19:22Z peter1138 $ */
 
 /*
  * This file is part of OpenTTD.

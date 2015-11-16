@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: roadveh.h 25185 2013-04-13 13:42:08Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

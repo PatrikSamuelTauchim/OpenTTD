@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: gfxinit.cpp 26919 2014-09-25 16:04:02Z peter1138 $ */
 
 /*
  * This file is part of OpenTTD.

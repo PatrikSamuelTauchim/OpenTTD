@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: disaster_vehicle.cpp 27087 2014-12-21 20:49:15Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

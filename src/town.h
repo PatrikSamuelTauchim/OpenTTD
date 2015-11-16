@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: town.h 27105 2015-01-01 21:25:42Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

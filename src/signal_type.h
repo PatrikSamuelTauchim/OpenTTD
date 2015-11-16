@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: signal_type.h 24367 2012-07-01 23:12:50Z michi_cc $ */
 
 /*
  * This file is part of OpenTTD.

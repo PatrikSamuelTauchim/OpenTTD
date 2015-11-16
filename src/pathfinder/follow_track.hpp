@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: follow_track.hpp 27107 2015-01-02 12:11:20Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

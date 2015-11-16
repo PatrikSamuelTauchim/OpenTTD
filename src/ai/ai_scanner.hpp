@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: ai_scanner.hpp 26487 2014-04-23 21:16:58Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

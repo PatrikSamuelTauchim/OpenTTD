@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: heightmap_colours.h 26930 2014-09-27 14:51:34Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

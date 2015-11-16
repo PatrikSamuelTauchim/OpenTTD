@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: cargo_type.h 23826 2012-01-20 20:18:19Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

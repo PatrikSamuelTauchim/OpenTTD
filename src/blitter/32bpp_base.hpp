@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: 32bpp_base.hpp 26463 2014-04-13 19:22:23Z peter1138 $ */
 
 /*
  * This file is part of OpenTTD.

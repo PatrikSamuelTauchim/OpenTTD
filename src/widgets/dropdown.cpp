@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: dropdown.cpp 27131 2015-02-01 12:23:39Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

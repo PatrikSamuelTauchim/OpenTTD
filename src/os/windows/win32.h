@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: win32.h 27176 2015-03-02 09:10:16Z planetmaker $ */
 
 /*
  * This file is part of OpenTTD.

@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: genworld_gui.cpp 27140 2015-02-08 21:05:48Z alberth $ */
 
 /*
  * This file is part of OpenTTD.

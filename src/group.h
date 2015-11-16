@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: group.h 26450 2014-04-08 21:09:06Z peter1138 $ */
 
 /*
  * This file is part of OpenTTD.

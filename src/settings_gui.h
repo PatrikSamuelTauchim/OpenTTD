@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: settings_gui.h 26959 2014-10-04 20:34:43Z peter1138 $ */
 
 /*
  * This file is part of OpenTTD.

@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: company_cmd.cpp 26802 2014-09-07 16:12:58Z alberth $ */
 
 /*
  * This file is part of OpenTTD.

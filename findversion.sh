@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# $Id$
+# $Id: findversion.sh 27079 2014-12-11 12:25:53Z planetmaker $
 
 # This file is part of OpenTTD.
 # OpenTTD is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 2.

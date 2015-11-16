@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: articulated_vehicles.h 24029 2012-03-14 20:49:54Z yexo $ */
 
 /*
  * This file is part of OpenTTD.

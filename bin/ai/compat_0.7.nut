@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: compat_0.7.nut 26407 2014-03-17 20:05:38Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

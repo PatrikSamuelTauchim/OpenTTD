@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: cargopacket.h 26660 2014-06-21 19:52:52Z fonsinchen $ */
 
 /*
  * This file is part of OpenTTD.

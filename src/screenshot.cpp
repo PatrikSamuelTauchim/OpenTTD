@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: screenshot.cpp 26983 2014-10-09 19:52:07Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

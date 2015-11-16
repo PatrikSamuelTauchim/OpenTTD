@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: base.hpp 26969 2014-10-06 18:45:51Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

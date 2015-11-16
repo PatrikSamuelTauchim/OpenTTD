@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: vehicle_widget.h 24997 2013-02-14 17:11:42Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

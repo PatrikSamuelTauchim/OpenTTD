@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: 8bpp_base.hpp 23448 2011-12-08 19:37:33Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

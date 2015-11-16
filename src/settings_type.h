@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: settings_type.h 27144 2015-02-12 20:00:23Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

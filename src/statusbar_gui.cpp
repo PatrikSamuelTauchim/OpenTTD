@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: statusbar_gui.cpp 27146 2015-02-13 21:13:45Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

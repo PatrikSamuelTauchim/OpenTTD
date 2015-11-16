@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: zoom_func.h 27134 2015-02-01 20:54:24Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

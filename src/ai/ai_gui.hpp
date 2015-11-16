@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: ai_gui.hpp 24554 2012-09-23 14:37:59Z zuu $ */
 
 /*
  * This file is part of OpenTTD.

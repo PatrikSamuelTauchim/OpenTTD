@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: goal_sl.cpp 26593 2014-05-17 17:18:07Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

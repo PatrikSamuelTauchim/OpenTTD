@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: cargotype.h 24915 2013-01-14 21:16:56Z smatz $ */
 
 /*
  * This file is part of OpenTTD.

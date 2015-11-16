@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: pbs.h 24905 2013-01-11 07:39:25Z peter1138 $ */
 
 /*
  * This file is part of OpenTTD.

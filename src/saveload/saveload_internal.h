@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: saveload_internal.h 25620 2013-07-21 13:18:45Z zuu $ */
 
 /*
  * This file is part of OpenTTD.

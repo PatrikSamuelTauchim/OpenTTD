@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: engine_gui.cpp 26934 2014-09-28 09:21:51Z peter1138 $ */
 
 /*
  * This file is part of OpenTTD.

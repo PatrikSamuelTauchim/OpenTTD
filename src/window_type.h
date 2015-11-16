@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: window_type.h 26610 2014-05-24 19:11:20Z alberth $ */
 
 /*
  * This file is part of OpenTTD.

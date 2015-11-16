@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: base_media_base.h 24487 2012-08-20 21:01:40Z yexo $ */
 
 /*
  * This file is part of OpenTTD.
