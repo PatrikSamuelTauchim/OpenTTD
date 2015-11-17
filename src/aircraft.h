@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: aircraft.h 26866 2014-09-21 06:35:34Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

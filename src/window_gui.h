@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: window_gui.h 27147 2015-02-13 21:25:48Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

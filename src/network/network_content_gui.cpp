@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: network_content_gui.cpp 26921 2014-09-25 19:27:07Z peter1138 $ */
 
 /*
  * This file is part of OpenTTD.

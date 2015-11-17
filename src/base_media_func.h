@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: base_media_func.h 26637 2014-06-09 17:43:59Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: 32bpp_anim.hpp 26214 2014-01-02 23:52:13Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

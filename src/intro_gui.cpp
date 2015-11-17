@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: intro_gui.cpp 26986 2014-10-09 21:16:29Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

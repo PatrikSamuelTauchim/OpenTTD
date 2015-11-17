@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: newgrf_callbacks.h 26747 2014-08-17 14:53:11Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

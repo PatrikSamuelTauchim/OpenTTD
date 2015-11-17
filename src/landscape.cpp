@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: landscape.cpp 27009 2014-10-13 14:22:48Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

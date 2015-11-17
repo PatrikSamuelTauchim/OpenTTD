@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: tile_type.h 27148 2015-02-14 12:53:07Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: stdafx.h 27109 2015-01-02 19:50:43Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: math_func.hpp 26651 2014-06-17 19:01:45Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: ship.h 26546 2014-05-01 14:48:44Z fonsinchen $ */
 
 /*
  * This file is part of OpenTTD.

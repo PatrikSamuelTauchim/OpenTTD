@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: settings_gui.cpp 27026 2014-10-21 16:58:15Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

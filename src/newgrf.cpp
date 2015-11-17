@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: newgrf.cpp 27138 2015-02-06 21:56:50Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

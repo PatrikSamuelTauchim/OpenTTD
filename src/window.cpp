@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: window.cpp 27185 2015-03-13 20:54:35Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

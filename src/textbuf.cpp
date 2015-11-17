@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: textbuf.cpp 26758 2014-08-24 10:34:43Z michi_cc $ */
 
 /*
  * This file is part of OpenTTD.

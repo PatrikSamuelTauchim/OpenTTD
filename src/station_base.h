@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: station_base.h 27178 2015-03-07 18:27:01Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

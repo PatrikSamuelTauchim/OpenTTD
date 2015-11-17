@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: vehiclelist.cpp 26679 2014-07-08 20:07:21Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

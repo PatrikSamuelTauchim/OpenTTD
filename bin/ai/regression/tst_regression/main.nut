@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: main.nut 26896 2014-09-21 16:44:37Z fonsinchen $ */
 
 class Regression extends AIController {
 	function Start();

@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: build_vehicle_gui.cpp 26960 2014-10-05 11:20:02Z peter1138 $ */
 
 /*
  * This file is part of OpenTTD.

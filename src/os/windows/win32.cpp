@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: win32.cpp 26606 2014-05-22 19:03:14Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

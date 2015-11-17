@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: extmidi.cpp 26556 2014-05-03 20:21:01Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

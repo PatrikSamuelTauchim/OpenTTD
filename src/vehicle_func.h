@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: vehicle_func.h 26863 2014-09-20 15:31:26Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

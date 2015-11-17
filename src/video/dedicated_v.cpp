@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: dedicated_v.cpp 26496 2014-04-24 17:49:31Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

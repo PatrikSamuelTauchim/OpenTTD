@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: rail.h 26803 2014-09-07 16:13:29Z alberth $ */
 
 /*
  * This file is part of OpenTTD.

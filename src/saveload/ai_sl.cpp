@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: ai_sl.cpp 26493 2014-04-24 04:41:54Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

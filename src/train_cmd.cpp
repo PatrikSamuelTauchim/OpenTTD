@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: train_cmd.cpp 27270 2015-05-08 17:23:55Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

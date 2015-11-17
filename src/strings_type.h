@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: strings_type.h 26525 2014-04-27 15:13:46Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

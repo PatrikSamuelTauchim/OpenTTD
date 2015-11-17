@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: airport_gui.cpp 27163 2015-02-22 15:26:27Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

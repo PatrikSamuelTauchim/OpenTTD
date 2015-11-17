@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: debug.cpp 26506 2014-04-24 19:51:45Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

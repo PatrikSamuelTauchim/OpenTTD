@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: network_content.cpp 26489 2014-04-23 21:23:21Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

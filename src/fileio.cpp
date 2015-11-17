@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: fileio.cpp 26514 2014-04-25 21:29:54Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

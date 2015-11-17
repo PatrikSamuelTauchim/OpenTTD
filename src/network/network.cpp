@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: network.cpp 26788 2014-09-07 14:21:16Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

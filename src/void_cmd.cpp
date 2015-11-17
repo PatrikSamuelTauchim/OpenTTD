@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: void_cmd.cpp 26870 2014-09-21 08:19:32Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

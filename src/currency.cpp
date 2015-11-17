@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: currency.cpp 26989 2014-10-10 23:07:59Z planetmaker $ */
 
 /*
  * This file is part of OpenTTD.

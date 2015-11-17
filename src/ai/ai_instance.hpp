@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: ai_instance.hpp 24468 2012-08-13 19:22:26Z yexo $ */
 
 /*
  * This file is part of OpenTTD.

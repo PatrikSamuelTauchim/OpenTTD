@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: ground_vehicle.cpp 26702 2014-07-22 19:46:10Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

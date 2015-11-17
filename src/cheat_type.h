@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: cheat_type.h 26887 2014-09-21 12:39:24Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

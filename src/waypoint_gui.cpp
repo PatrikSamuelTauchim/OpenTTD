@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: waypoint_gui.cpp 27030 2014-10-21 19:16:47Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

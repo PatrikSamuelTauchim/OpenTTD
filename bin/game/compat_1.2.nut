@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: compat_1.2.nut 27164 2015-02-22 17:25:29Z alberth $ */
 
 /*
  * This file is part of OpenTTD.

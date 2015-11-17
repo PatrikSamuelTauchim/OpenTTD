@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: os2.cpp 27092 2014-12-24 17:17:18Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

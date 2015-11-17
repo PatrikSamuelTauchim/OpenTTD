@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: group_cmd.cpp 27090 2014-12-24 16:49:57Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

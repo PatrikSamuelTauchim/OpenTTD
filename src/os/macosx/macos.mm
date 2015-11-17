@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: macos.mm 26485 2014-04-23 20:44:42Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

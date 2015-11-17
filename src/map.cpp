@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: map.cpp 26503 2014-04-24 18:49:24Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

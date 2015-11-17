@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: heightmap.cpp 27044 2014-10-25 22:24:05Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

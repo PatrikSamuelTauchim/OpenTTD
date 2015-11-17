@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: saveload.h 26591 2014-05-16 17:41:55Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.

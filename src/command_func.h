@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: command_func.h 24139 2012-04-17 19:44:16Z michi_cc $ */
 
 /*
  * This file is part of OpenTTD.

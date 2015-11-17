@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: tunnelbridge.h 27157 2015-02-22 14:01:24Z frosch $ */
 
 /*
  * This file is part of OpenTTD.

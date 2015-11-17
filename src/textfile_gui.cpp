@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: textfile_gui.cpp 27035 2014-10-23 10:49:19Z matthijs $ */
 
 /*
  * This file is part of OpenTTD.
