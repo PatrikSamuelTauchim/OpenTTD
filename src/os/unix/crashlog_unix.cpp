@@ -1,4 +1,4 @@
-/* $Id$ */
+/* $Id: crashlog_unix.cpp 26482 2014-04-23 20:13:33Z rubidium $ */
 
 /*
  * This file is part of OpenTTD.
@@ -19,7 +19,7 @@
 #include <signal.h>
 #include <sys/utsname.h>
 
-#if defined(__GLIBC__)
+#if defined(__NOGLIBC__)
 /* Execinfo (and thus making stacktraces) is a GNU extension */
 //#	include <execinfo.h>
 #elif defined(SUNOS)
