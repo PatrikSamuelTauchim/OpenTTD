@@ -70,7 +70,6 @@ ROOT_DIR=`pwd`
 # Determine if we are using a modified version
 # Assume the dir is not modified
 MODIFIED="0"
-
 if [ -f "$ROOT_DIR/.ottdrev" ]; then
 	# We are an exported source bundle
 	cat $ROOT_DIR/.ottdrev
